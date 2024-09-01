@@ -1,36 +1,32 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI-Powered Customer Support for Small Businesses
+
+Welcome to our AI-powered customer support solution! This SaaS application is designed specifically for small business owners who may not have the resources to afford a dedicated 24/7 customer support team. Our AI provides seamless, around-the-clock chat support for your customers, ensuring that their needs are met promptly and effectively.
+
+## Features
+
+- **24/7 AI-Powered Chat Support**: Our AI handles customer queries day and night, ensuring your business is always available to assist customers.
+- **Easy Integration**: We provide integrable code that can be easily merged into your existing website, making setup a breeze.
 
 ## Getting Started
 
-First, run the development server:
+1. **Sign Up**: Create an account on our platform.
+2. **Customize Your AI**: Tailor the AI to meet your specific business needs.
+3. **Integrate**: Use the provided code snippet to integrate the AI chat support into your website.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Benefits
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+- **Cost-Effective**: Ideal for small businesses that can’t afford a dedicated support team.
+- **Scalable**: As your business grows, our AI can scale to meet increasing customer demands.
+- **Reliable**: Ensure your customers always have access to support, improving satisfaction and retention.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Support
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+If you have any questions or need assistance with integration, our support team is here to help. Please reach out via [support@example.com](mailto:support@example.com).
 
-## Learn More
+## License
 
-To learn more about Next.js, take a look at the following resources:
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Thank you for choosing our AI-powered customer support solution!
